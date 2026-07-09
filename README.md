@@ -88,7 +88,7 @@ sudo git init
 sudo git add .
 sudo git commit -m "Initial commit"
 sudo git branch -M main
-sudo git remote add origin https://github.com/patelNishka/nishka-aws-devops-intern-assignment.git
+sudo git remote add origin https://github.com/patelnishka/nishka-aws-devops-intern-assignment.git
 sudo git push -u origin main
 ```
 
